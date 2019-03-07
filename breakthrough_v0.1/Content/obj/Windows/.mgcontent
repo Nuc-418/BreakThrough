@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/cursor.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/brick1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/brick2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/brick3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Title_menu.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_menu0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_menu1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_editor0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Ball0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_menu2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Ball3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Ball2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/ball1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/brickI.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_pause1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_pause0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Player1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Player2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/BackgroundSubmenu.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Paddle.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Player0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Player3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_rand0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_rand1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Brick0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Brick1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Brick2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Brick3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_SliderBox0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_SliderBox1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_SliderBox2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_SliderBox3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Textbox0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Textbox2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Textbox3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_Textbox1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_TPointer0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_TPointer1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_TPointer2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_TPointer3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_AWhiteBar0.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_AWhiteBar1.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_AWhiteBar2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Rand_AWhiteBar3.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_editor2.png</File>
+    <File>C:/Users/Utilizador/Desktop/Breakthroughv2/breakthrough_v0.1/Content/Button_editor1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

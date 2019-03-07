@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breakthrough_v0.1", "breakthrough_v0.1\breakthrough_v0.1.csproj", "{12290459-1438-4A2F-A875-EC59D4ADD336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12290459-1438-4A2F-A875-EC59D4ADD336}.Debug|x86.ActiveCfg = Debug|x86
+		{12290459-1438-4A2F-A875-EC59D4ADD336}.Debug|x86.Build.0 = Debug|x86
+		{12290459-1438-4A2F-A875-EC59D4ADD336}.Release|x86.ActiveCfg = Release|x86
+		{12290459-1438-4A2F-A875-EC59D4ADD336}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC5578B-A06B-474F-B7F9-CC384315D3DD}
+	EndGlobalSection
+EndGlobal
